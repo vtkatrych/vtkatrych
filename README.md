@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Vitalii Katrych
 
-## Junior Full Stack Developer | JavaScript | React
+## Junior Full Stack Developer 
 
 Junior Full Stack Developer with practical experience in building responsive web applications through educational and team projects. Proficient in HTML, CSS, JavaScript, and React. Dedicated to writing clean, maintainable code, integrating REST APIs, and delivering user-friendly interfaces. Experienced in team collaboration and using version control (Git). Strong problem-solving skills and a fast learner eager to grow in a dynamic IT environment.
 
