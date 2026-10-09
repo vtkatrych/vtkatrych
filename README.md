@@ -20,4 +20,4 @@ Junior Full Stack Developer with practical experience in building responsive web
 
 ### 📫 How to reach me:
 
-[LinkedIn](https://www.linkedin.com/in/vitalii-katrych/) | [Email](mailto:katrychvitalii23@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/vtkatrych/) | [Email](mailto:katrychvitalii23@gmail.com)
